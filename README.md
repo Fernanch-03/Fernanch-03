@@ -15,5 +15,4 @@
 - 🔗 [Projeto Gerenciamento de Quizes PHP]((https://github.com/Fernanch-03/AtividadeFinal-4ciclo-PHP/tree/main))
 
 ## 📫 Como me encontrar:
-- LinkedIn: [linkedin.com/in/fernando-machado-822a3a228](https://linkedin.com/in/fernando-machado-822a3a228)
-- GitHub: [github.com/Fernanch-03](https://github.com/Fernanch-03)
+- [Linkedin](https://linkedin.com/in/fernando-machado-822a3a228)
