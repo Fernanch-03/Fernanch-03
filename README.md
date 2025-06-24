@@ -11,8 +11,8 @@
 - SAP e AWS (noções)
 
 ## 📂 Meus projetos
-- 🔗 [Jeopardy Mobile]((https://github.com/Fernanch-03/JeopardyProvaMobile))
-- 🔗 [Projeto Gerenciamento de Quizes PHP]((https://github.com/Fernanch-03/AtividadeFinal-4ciclo-PHP/tree/main))
+- 🔗 [Jeopardy Mobile](https://github.com/Fernanch-03/JeopardyProvaMobile)
+- 🔗 [Projeto Gerenciamento de Quizes PHP](https://github.com/Fernanch-03/AtividadeFinal-4ciclo-PHP/tree/main)
 
 ## 📫 Como me encontrar:
 - [Linkedin](https://linkedin.com/in/fernando-machado-822a3a228)
